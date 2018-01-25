@@ -1,0 +1,6 @@
+[submodule "src/cod_añadir_libreria/Lib"]
+	path = src/cod_añadir_libreria/Lib
+	url = https://github.com/damiannogueiras/MiLibreria.git
+[submodule "Lib"]
+	path = Lib
+	url = https://github.com/damiannogueiras/MiLibreria.git
